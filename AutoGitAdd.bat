@@ -1,7 +1,8 @@
 echo off
 color a
-:main
 cls
+:main
+echo [---------------------------------------------------------]
 pause
 git add .
 git commit -m "Accepted"
