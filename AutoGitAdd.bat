@@ -6,5 +6,5 @@ echo [---------------------------------------------------------]
 pause
 git add .
 git commit -m "Accepted"
-git push -u origin main
+git push -u origin main --force
 goto main
